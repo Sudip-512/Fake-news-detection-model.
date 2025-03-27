@@ -5,4 +5,4 @@ This project aims to detect fake news using a Deep learning approach model. The 
 2. Utilization of tenserflow, nltk and sklearn to implement in the model.
 3. Loss curve, Accuracy curve, confusion matrix and ROC curve (Receiver-operating characteristic curve) is used to prediction.
 # Getting Started
-#Prerequiseteries
+   # Prerequiseteries
