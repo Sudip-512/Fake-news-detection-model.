@@ -12,5 +12,9 @@ This project aims to detect fake news using a Deep learning approach model. The 
 - Python 3.8 or above.
 - Required libraries: `numpy`,`pandas`,`nltk`,`re`,`tensorflow`,`nlpaug.augmenter.word`,`matplotlib`,`seaborn`.
 
-### Usage:
-
+### Usage
+1. Prepare the dataset by placing it in the root folder of the project and renaming it to `fake_and_real_news.csv`.
+2. Run the main script to train the mode:
+   ```bash
+   python final_fake_news_prediction_using_ML_(1).ipynb
+   ```
